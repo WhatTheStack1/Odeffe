@@ -57,5 +57,9 @@
     "rules": {
       "vue/no-use-v-if-with-v-for": "off"
     }
+  },
+  "engines": {
+    "npm": "6.x",
+    "node": "12.x"
   }
 }
