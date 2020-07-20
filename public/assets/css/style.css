@@ -1172,6 +1172,17 @@ section {
   border: 2px solid #f9f9f9;
 }
 
+.pricing .box:hover {
+  padding: 20px;
+  background: #f9f9f9;
+  text-align: center;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+  border: 2px solid #f9f9f9;
+  box-shadow: 0px 3px 3px 0px rgba(39, 74, 158, 0.486);
+}
+
 .pricing .box h3 {
   font-weight: 400;
   padding: 15px;
